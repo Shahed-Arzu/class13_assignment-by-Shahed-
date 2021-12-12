@@ -1,0 +1,29 @@
+@font-face{
+    font-family: 'Smooch-Regular';
+    src: url('./fonts/Smooch-Regular.ttf');
+}
+
+
+
+
+body{
+    margin: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Indie+Flower&family=Montserrat:wght@900&display=swap');
+
+
+
+
+
+h1 {
+    font-family: 'Montserrat';
+  
+}
+h2 {
+    font-family: 'Dancing Script', cursive;  
+}
+p {
+    font-family: 'Smooch-Regular'; 
+    font-size: 40px; 
+}
